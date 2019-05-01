@@ -7,6 +7,7 @@ Allow to emulate a RFLink with RF modules directly connected to GPIO ports.
 
 
 Usage :
+
 1°) connect RF modules
 
 Connect sender data on pin 17 (gpio 0, bcm 17)
